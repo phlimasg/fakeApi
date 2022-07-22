@@ -12,9 +12,7 @@
                 "watching Netflix"
             ]
         },
-        "email": {
-            "regexp": "teste@teste.com"
-        },
+        "email": "teste@teste.com",
         "color": {
             "regexp": "#[0-9A-F]{6}"
         },
