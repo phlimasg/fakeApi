@@ -1,5 +1,11 @@
 {
     "User": {
+        "cpf": {
+            "string": [
+                "94852788022",
+                "06279929000"
+            ]
+        },
         "email": {
             "string": [
                 "teste@teste.com",
