@@ -1,10 +1,13 @@
 {
     "Users": {
         "nome": {
-            "string": "Usuario 1"
+            "string": [
+                "usuario 1",
+                "usuario 2"
+            ]
         },
         "email": {
-            "string": "teste@teste.com"
+            "string": ["teste@teste.com", "testes@teste.com"]
         }
     }
 }
