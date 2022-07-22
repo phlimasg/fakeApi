@@ -1,16 +1,7 @@
 {
-    "Users": {
-        "nome": {
-            "string": [
-                "usuario 1",
-                "usuario 2"
-            ]
-        },
-        "email": {
-            "string": [
-                "teste@teste.com",
-                "testes@teste.com"
-            ]
+    "User": {
+        "title": {
+            "string": {}
         }
     }
 }
