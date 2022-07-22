@@ -1,7 +1,10 @@
 {
     "User": {
-        "title": {
-            "string": {}
+        "email": {
+            "string": [
+                "teste@teste.com",
+                "teste2@teste2.com"
+            ]
         }
     }
 }
